@@ -1,0 +1,4 @@
+# all pathes not upload to git
+.pytest_cache
+.idea
+venvv/*
